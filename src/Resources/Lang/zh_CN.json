@@ -33,7 +33,7 @@
   "DisconnectReason.Banned": "{0} 被 {1} 封禁！",
   "DisconnectReason.Cheater": "{0} 被 Innersloth 反作弊封禁！",
   "DisconnectReason.Error": "{0} 因错误被踢出！",
-  "DisconnectReason.Unknown": "{0} 因未知原因离开了游戏？",
+  "DisconnectReason.Unknown": "{0} 因未知原因离开了游戏",
   "DisconnectReasonMeeting.Left": "离开了游戏",
   "DisconnectReasonMeeting.Disconnect": "已断线",
   "DisconnectReasonMeeting.Kicked": "被房主踢出",
